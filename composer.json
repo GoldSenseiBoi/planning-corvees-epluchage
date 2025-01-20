@@ -1,0 +1,17 @@
+{
+    "name": "mozduck/planning-corvees-epluchage",
+    "autoload": {
+        "psr-4": {
+            "Mozduck\\PlanningCorveesEpluchage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "GoldSenseiBoi",
+            "email": "98558347+GoldSenseiBoi@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.20"
+    }
+}

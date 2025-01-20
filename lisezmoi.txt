@@ -1,0 +1,42 @@
+# Organisation du planning d’épluchage
+
+### Comptes des participants
+
+- **Vincent** – (octo@azar.fr | root123)
+- **Wayne Bob** – (bob@azar.fr | bob123)
+- **Jerry Alicia** – (alicia@azar.fr | alice123)
+- **Benjamin Franck** – (freddy@azar.fr | fred123)
+
+---
+
+## Fonctionnalités implémentées
+
+- **Sélection de l’année** – ✓ Terminé
+- **Système d’authentification** – ✓ Terminé
+- **Assignation des tâches** – ✓ Terminée, mais peut être améliorée
+- **Base de données MongoDB** – ✓ Implémentée
+- **Ajout des statistiques** – ✓ Implémenté, optimisations possibles
+
+---
+
+## Fonctionnalités supplémentaires développées
+
+- **Gestion des utilisateurs** – En cours
+- **Création de comptes** – ✓ Fonctionnalité terminée
+- **Génération automatique des premiers lundis de chaque semaine pour une année donnée**(ex: 06/01/2025, etc.), spécifiquement pour chaque année sélectionnée
+
+---
+
+## Fonctionnalités restantes à implémenter
+
+À ce jour, toutes les fonctionnalités définies dans le cahier des charges ont été réalisées.
+
+---
+
+### Difficultés rencontrées
+
+L’ensemble du développement s’est bien déroulé, et aucun bug majeur n’a été identifié à ce stade.
+
+Cependant, plusieurs défis techniques ont été rencontrés, notamment liés à MongoDB, en raison de problèmes avec le driver. Le code ne reconnaissait pas correctement la bibliothèque MongoDB, ce qui a nécessité des solutions alternatives parfois non optimales.
+
+De plus, l'utilisation des agrégations MongoDB pour afficher les statistiques a présenté des défis spécifiques qui ont nécessité un temps d’adaptation supplémentaire.
