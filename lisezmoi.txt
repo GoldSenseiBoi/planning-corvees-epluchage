@@ -7,7 +7,7 @@
 - **Jerry Alicia** – (alicia@azar.fr | alice123)
 - **Benjamin Franck** – (freddy@azar.fr | fred123)
 
----
+Le lien d'accès : "https://www.projet-web-training.ovh/licence08/planning-corvees-epluchage/index.php?ctrl=user&action=login"
 
 ## Fonctionnalités implémentées
 
